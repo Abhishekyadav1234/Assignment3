@@ -1,0 +1,10 @@
+.first-wrapper{
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+}
+#top-wrapper{
+    width: 10%;
+    height: 10vh;
+    background-color:blue;
+}
